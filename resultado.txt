@@ -1,0 +1,2 @@
+El maximo comun multiplo de 6 Y 8 es 24
+El maximo comun divisor de 6 Y 8 es 2
